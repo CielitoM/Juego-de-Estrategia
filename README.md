@@ -63,6 +63,16 @@ gcc -o juego main.c Funciones.c
 ```powershell
 ./juego
 ```
+## Capturas de Pantalla
+<img width="580" height="511" alt="Captura de pantalla 2025-10-24 032123" src="https://github.com/user-attachments/assets/13e19620-635a-488f-92bc-d3c0952c8624" />
+
+<img width="577" height="428" alt="Captura de pantalla 2025-10-24 032153" src="https://github.com/user-attachments/assets/7a7a5aad-937c-46cf-b323-330290d9f808" />
+
+<img width="565" height="423" alt="Captura de pantalla 2025-10-24 032214" src="https://github.com/user-attachments/assets/1017ee10-2355-4cf6-9a73-fdf50f8e4322" />
+
+<img width="555" height="492" alt="Captura de pantalla 2025-10-24 032304" src="https://github.com/user-attachments/assets/288dbd3e-d994-46a7-9207-f86beb9a1652" />
+
+<img width="682" height="362" alt="Captura de pantalla 2025-10-24 032616" src="https://github.com/user-attachments/assets/4918cc65-e105-4d62-9d3d-a7a195a6b1c1" />
 
 ## Algoritmo de la Computadora
 
